@@ -1,4 +1,4 @@
-# Raumausbau
+# Burgentwicklung
 ## Grundsätzliches
 Abgesehen von Nahrung kommt man auf dem schnellsten Weg über pvp Kämpfe (player versus player) an für den Ausbau benötigte Resourcen. Beim Ausbau gibt es allerdings einige Sachen, die man im Hinterkopf behalten sollte:
 
