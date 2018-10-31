@@ -7,7 +7,7 @@ Abgesehen von Nahrung kommt man auf dem schnellsten Weg über pvp Kämpfe (playe
 - Stelle sicher, dass genug Bewohner in der Burg sind, um alle Räume (auch neue) zu besetzen. Baue frühzeitig das Wohnzimmer aus und erhöhe die Bewohnerzahl.
 
 ## Bewohner
-Sobald man in die Lage kommt Krieger der Stufe 55 auszubilden sollten nach möglichkeit alle Krieger mindestens Potenzial 4 haben. Hat man noch keine solchen Bewohner, macht es Sinn einige Bewohner in möglichst vielen Bereichen auszubilden. Erfahrungsgemäß erhöht eine gute Ausbildung genau wie ein hohes Potenzial die Wahrscheinlichkeit, dass die Nachkommen auch ein hohes Potenzial haben. Zudem sollte man die Paare durchtauschen. Züchtet man über längere Zeit immer mit dem gleichen Paar, scheint die Wahrscheinlichkeit zu sinken Nachkommen mit hohem Potenzial zu bekommen.
+Sobald man in die Lage kommt Krieger der Stufe 55 auszubilden, sollten nach Möglichkeit alle Krieger mindestens Potenzial 4 haben. Hat man noch keine solchen Bewohner, macht es Sinn einige Bewohner in möglichst vielen Bereichen auszubilden. Erfahrungsgemäß erhöht eine gute Ausbildung genau wie ein hohes Potenzial die Wahrscheinlichkeit, dass die Nachkommen auch ein hohes Potenzial haben. Zudem sollte man die Paare durchtauschen. Züchtet man über längere Zeit immer mit dem gleichen Paar, scheint die Wahrscheinlichkeit zu sinken Nachkommen mit hohem Potenzial zu bekommen.
 
 ## Kriegerentwicklung
 Wichtige Faktoren für einen starken Trupp sind neben der Ausrüstung ein gutes Setup. Wenn das Setup stimmig ist, kann ein Trupp mit weniger Punkten trotzdem effektiver sein.
@@ -21,10 +21,10 @@ Um im Portal erfolgreich zu sein, sollte man sich ein möglichst hohes Level suc
 Die gewonnenen Seelen sind am besten in die legendären Items, gefolgt von violetten Splittern investiert. Ich empfehle nicht in zufällige Bewohner oder andere Dinge zu investieren.
 
 #### Arena
-Die Arena ist der perfekte Ort für experimente beim Setup. Mal einen zusätzlichen Magier. Mal eine Rüstung tauschen. Probiere aus und schaue wie du dich verbessern kannst. Werte vor allem dabei die Kampfstatistiken aus. Investiere die gewonnenen Punkte klug in bessere Ausrüstung. Es macht Sinn vor dem Ausbau von Tronsaal, Kaserne und Ausbildungsraum bereits einige Punkte gesammelt zu haben, da es im Anschluss i.d.R schwerer wird in der Arena zu gewinnen.
+Die Arena ist der perfekte Ort für experimente beim Setup. Mal einen zusätzlichen Magier. Mal eine Rüstung tauschen. Probiere aus und schaue wie du dich verbessern kannst. Werte vor allem dabei die Kampfstatistiken aus. Investiere die gewonnenen Punkte klug in bessere Ausrüstung. Es macht Sinn vor dem Trainieren derner Truppen im Ausbildungsraum bereits einige Punkte gesammelt zu haben, da es im Anschluss i.d.R schwerer wird in der Arena zu gewinnen. Die Gegnerwahr wird dabei über das Level deiner Krieger bestimmt. Je nach Kriegersetup kommst du in unterschiedliche Brackets. Weitere Infos zu den Brackets findest du hier: [Arena Brackets](http://ni877848-1.web12.nitrado.hosting/index.php?contf=arena_de.php)
 
 #### Schmiede
-Vor allem blaue und violette Splitter sind eine wichtige Ressource. Am wichtigsten sind sicher Waffen und Rüstungen, aber auch gite Amulette und Ringe sind wichtig. Ich persönlich fertige bei den Waffen meistens nur Stäbe, da ich Waffen ehr im Portal oder in der Arena besorge. Gerade in der Arena kann man gezielter nach Ausrüstung schauen, die einen weiter bringt. Haubtsächlich fertige ich Rüstungen, Ringe und Amulette. Ist aber evtl auch persönlicher Geschmack.
+Vor allem blaue und violette Splitter sind eine wichtige Ressource. Am wichtigsten sind sicher Waffen und Rüstungen, aber auch gute Amulette und Ringe sind wichtig. Ich persönlich fertige bei den Waffen meistens nur Stäbe, da ich Waffen ehr im Portal oder in der Arena besorge. Gerade in der Arena kann man gezielter nach Ausrüstung schauen, die einen weiter bringt. Haubtsächlich fertige ich Rüstungen, Ringe und Amulette. Ist aber evtl auch persönlicher Geschmack.
 
 #### Allgemeines
 Bevor du die Kaserne und vor allem den Ausbildungsraum ausbaust, stelle sicher, dass du bereits eine sehr gute Ausrüstung hast. Das wird es dir in der Folge einfacher machen weitere neue Gegenstände (z.B. in der Arena) zu verdienen.
