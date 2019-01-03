@@ -18,7 +18,7 @@ Tanks stellt man hier primär als Blocker auf um die Magier zu schützen. Wichti
 Alle Flächenschadeneffekte sind hier von Vorteil. Zu empfehlen sind hier Artefakte wie der Kettenblitz, Flächenschadenstäbe oder Flächenschadenäxte. Nicht heilen sondern wiederbeleben!!!!
 ## Veringerte Kriegerzahl
 ### Nur ein Kämpfer
-Setze den stärksten Tank ein
+Setze den stärksten Tank oder Bogenschützen ein
 ### Zwei Kämpfer
 Mindestens einen starken Tank. Die zweite Einheit sollte passend zu den Möglichkeiten gewählt werden.
 ### Drei bis vier Kämpfer
@@ -28,4 +28,4 @@ Da ich es schon gesehen habe erwähne ich es: Keine heilenden Magier einsetzen. 
 ## Wiederbeleben nicht möglich
 Keine wiederbelebenden Magier einsetzen.
 ## Tronsaalbeschränkung
-Wenn Tronsaalbeschränkungen gelten ist es oft sinnvoll diese auszunutzen. Allerdings sollte man versuchen diese wegpunkte mit midestand zwei Truppen zu besetzen.
+Wenn Tronsaalbeschränkungen gelten ist es oft sinnvoll diese auszunutzen. Allerdings sollte man versuchen diese Wegpunkte mit midestand zwei Truppen zu besetzen.
