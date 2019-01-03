@@ -18,8 +18,8 @@ Tanks are mainly used for blocking purposes to protect your magicians. Important
 All kind or arean damage is very helpful. This includes magic wands causing areal damage, artefacts (e.g. chain lightning) and axes causing areal damage. Don't heal but resurrect!!!
 ## Decreased amount of fighters
 ### A single fighter
-Use your strongest tank
-### Twi fighters
+Use your strongest tank or archer.
+### Two fighters
 At least a strong tank. The second unit sould be chosen in a way that it matches your stregnthen.
 ### Three to four fighters
 No fix strategy. But a teleporting artefact is very helpful and efficient.
