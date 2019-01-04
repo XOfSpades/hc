@@ -7,7 +7,7 @@ Apart from food the fastest way to earn resources required for your castle exten
 - Ensure your castle has as many inhabitants as possible to man every producing room. Extend the living room early enough!
 
 ## Inhabitants
-As soon as you are able to train your warriors up to level 55 you should have all fighters at least at a potzencial of 4 stars. In case you don't have such inhabitants it makes sense that you train some in all areas. My observation is that this also influences the skills and also the potencial of their corresponding children. So the more skills the parents have the likelier you get children having a high petencial. Also it makes sense to switch the couples from time to time. Using always the same couple seems to result in a reduced potencial.
+As soon as you are able to train your warriors up to level 55 you should have all fighters at least at a potzencial of 4 stars. In case you don't have such inhabitants it makes sense that you train some in all areas. Anyway it makes sense to have all fighters with 5 starts as soon as possible, e.g. later you can have 12 fighters while traveling in the gem bay. My observation is that this also influences the skills and also the potencial of their corresponding children. So the more skills the parents have the likelier you get children having a high petencial. Also it makes sense to switch the couples from time to time. Using always the same couple seems to result in a reduced potencial.
 
 ## Troop development
 Apart from good items it is important to have a good setup within your troops. If the setup of your troops fit together this squat can be more powerful that troops having even more points.
