@@ -20,9 +20,9 @@ All kind or arean damage is very helpful. This includes magic wands causing area
 ### A single fighter
 Use your strongest tank or archer.
 ### Two fighters
-At least a strong tank. The second unit sould be chosen in a way that it matches your stregnthen.
+Either two archers or a strong tank with a matching second unit. Helpful artefacts are: Blizzard, Unpleasant Surprise
 ### Three to four fighters
-No fix strategy. But a teleporting artefact is very helpful and efficient.
+No fix strategy. But helpful artefacts are: teleporter, Blizzard, Unpleasant Surprise
 ## Healing not possible
 Sounds obvious, but don't use magicians which heal their troops.
 ## Resurrection not possible

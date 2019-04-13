@@ -11,7 +11,7 @@ An Wegpunkten mit erhöhtem magischen Schaden sollte man ehr auf Magier zurückg
 ## Veringerter magischer Schaden
 Man sollte auf schadenwirkende Magier komplett verzichten. Stattdessen ehr auf Bogenschützen oder starke Tanks. Magier vor allem nach Heil- und Wiederbelebefertigkeit auswählen. Aber primär auf physischen Schaden setzen.
 ## Erhöhter physischer Schaden
-Auch hier sind die Bogenschützen und starke Tanks Trumpf. Nahkämpfer mit Bogenschützenrüstung und Messer haben dabei den größten Bonusnutzen.
+Auch hier sind die Bogenschützen und starke Tanks Trumpf. Nahkämpfer mit Bogenschützenrüstung und Dolchen haben dabei den größten Bonusnutzen.
 ## Veringerter körperlicher Schaden
 Tanks stellt man hier primär als Blocker auf um die Magier zu schützen. Wichtig ist hier der magische Schaden (Flächenschadenstab oder Stab mit punktuellem Schaden). Ist der Schaden um 90% reduziert ist vor allem der Magische Schaden wichtig. An diesem Wegpunkt sollte man UNBEDINGT auf Bogenschützen VERZICHTEN.
 ## Veringerte Gesundheit
@@ -20,9 +20,9 @@ Alle Flächenschadeneffekte sind hier von Vorteil. Zu empfehlen sind hier Artefa
 ### Nur ein Kämpfer
 Setze den stärksten Tank oder Bogenschützen ein
 ### Zwei Kämpfer
-Mindestens einen starken Tank. Die zweite Einheit sollte passend zu den Möglichkeiten gewählt werden.
+Zwei Setups sind denkbar. Entweder zwei Bogenschützen oder einen starken Tank mit einer zweites Einheit, die passend zu den Möglichkeiten gewählt werden sollte. Sehr hilfreiche Artefakte: Blizzard, Unerfreuliche Überschaung
 ### Drei bis vier Kämpfer
-Keine Fixe Strategie von der Kriegerart. Aber ein Teleporterartefakt scheint hier sehr effektiv zu sein.
+Keine Fixe Strategie von der Kriegerart. Sehr hilfreiche Artefakte: Teleporter, Blizzard, Unerfreuliche Überschaung
 ## Heilung nicht möglich
 Da ich es schon gesehen habe erwähne ich es: Keine heilenden Magier einsetzen. Es nützt nichts.
 ## Wiederbeleben nicht möglich
