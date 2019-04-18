@@ -20,7 +20,7 @@ Apart from good items it is important to have a good setup within your troops. I
 More important than the causual treasures are the portal, the arena and forged items. Here you usually get the most important items of your troops.
 
 #### Portal
-To be successful in the portal it makes sense to find a high level you can win reliably. To be able to do as many rounds in the portal as possible you should save as many treasures containing food as possible (e.g. the facebook-trasures). Also the goblin helps you to earn more food for the portal since it collects for you during the night so the next day you already have a good bunch ready.
+To be successful in the portal it makes sense to find a high level you can win reliably. To be able to do as many rounds in the portal as possible you should save as many treasures containing food as possible (e.g. the facebook-trasures). Also the goblin helps you to earn more food for the portal since it collects for you during the night so the next day you already have a good bunch ready. Important: Don't waste your food for other things than portal (clan war, pvp, arena). You need the foot to gain the legendary items.
 
 I would recommend to invest the sould into either legendary items or violett splinters. Don't waste them on random inhabitants or other stuff.
 
