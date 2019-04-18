@@ -20,7 +20,7 @@ Wichtige Faktoren für einen starken Trupp sind neben der Ausrüstung ein gutes 
 Noch vor den üblichen Truhen sind die Arena, das Portal und die eigenen Schmieden die wichtigsten Orte um an bessere Ausrüstung zu kommen.
 
 #### Portal
-Um im Portal erfolgreich zu sein, sollte man sich ein möglichst hohes Level suchen, dass man zuverlässig gewinnen kann. Es ist dabei sinnvoll Truhen aufzusparen, die Nahrung enthalten (wie die aus den Facebookspenden). Ebenfalls ist der Kobold nützlich, da er über Nacht immer den Nahrungsvorrat auffüllt und man so am nächsten Tag aus dem volen schöpfen kann.
+Um im Portal erfolgreich zu sein, sollte man sich ein möglichst hohes Level suchen, dass man zuverlässig gewinnen kann. Es ist dabei sinnvoll Truhen aufzusparen, die Nahrung enthalten (wie die aus den Facebookspenden). Ebenfalls ist der Kobold nützlich, da er über Nacht immer den Nahrungsvorrat auffüllt und man so am nächsten Tag aus dem vollen schöpfen kann. Wichtig: Wenn du das Portal machst, verschwende keine Nahrung für andere Sachen (Clankrieg, PvP, Arena). Du brauchst diese Nahrung dort um es zu den legendären items zu schaffen.
 
 Die gewonnenen Seelen sind am besten in die legendären Items, gefolgt von violetten Splittern investiert. Ich empfehle nicht in zufällige Bewohner oder andere Dinge zu investieren.
 
