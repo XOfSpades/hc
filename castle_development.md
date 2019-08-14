@@ -23,7 +23,7 @@ More important than the causual treasures are the portal, the arena and forged i
 #### Portal
 To be successful in the portal it makes sense to find a high level you can win reliably. To be able to do as many rounds in the portal as possible you should save as many treasures containing food as possible (e.g. the facebook-trasures). Also the goblin helps you to earn more food for the portal since it collects for you during the night so the next day you already have a good bunch ready. Important: Don't waste your food for other things than portal (clan war, pvp, arena). You need the foot to gain the legendary items.
 
-I would recommend to invest the sould into either legendary items or violett splinters. Don't waste them on random inhabitants or other stuff.
+I would recommend to invest the sould into either legendary items or diamonds. The rest could be used for splinters. Don't waste them on random inhabitants or other stuff.
 
 #### Arena
 The arena is the place to be when you want to try out a new setup. An additional magician? Switch the amor? Try it out and find out how to improve your squad. Especially the statistics are a good source. The points then need to be invested wisely into better equipment. Especially before training the fighters in the training room collect as many arena points as possible, since especially after extending the training room it will become harder for you to get points. The opponents are seleted by brackets. For informations about the brackets see here: [Arena Brackets](http://ni877848-1.web12.nitrado.hosting/index.php?contf=arena_de.php)
