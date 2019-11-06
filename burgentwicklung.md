@@ -23,7 +23,7 @@ Noch vor den üblichen Truhen sind die Arena, das Portal und die eigenen Schmied
 #### Portal
 Um im Portal erfolgreich zu sein, sollte man sich ein möglichst hohes Level suchen, dass man zuverlässig gewinnen kann. Es ist dabei sinnvoll Truhen aufzusparen, die Nahrung enthalten (wie die aus den Facebookspenden). Ebenfalls ist der Kobold nützlich, da er über Nacht immer den Nahrungsvorrat auffüllt und man so am nächsten Tag aus dem vollen schöpfen kann. Wichtig: Wenn du das Portal machst, verschwende keine Nahrung für andere Sachen (Clankrieg, PvP, Arena). Du brauchst diese Nahrung dort um es zu den legendären items zu schaffen.
 
-Die gewonnenen Seelen sind am besten in die legendären Items, gefolgt von violetten Splittern investiert. Ich empfehle nicht in zufällige Bewohner oder andere Dinge zu investieren.
+Die gewonnenen Seelen sind am besten in die legendären Items, gefolgt Dias investiert. Reste kann man dann für Splitter nutzen. Ich empfehle nicht in zufällige Bewohner oder andere Dinge zu investieren.
 
 #### Arena
 Die Arena ist der perfekte Ort für experimente beim Setup. Mal einen zusätzlichen Magier. Mal eine Rüstung tauschen. Probiere aus und schaue wie du dich verbessern kannst. Werte vor allem dabei die Kampfstatistiken aus. Investiere die gewonnenen Punkte klug in bessere Ausrüstung. Es macht Sinn vor dem Trainieren derner Truppen im Ausbildungsraum bereits einige Punkte gesammelt zu haben, da es im Anschluss i.d.R schwerer wird in der Arena zu gewinnen. Die Gegnerwahr wird dabei über das Level deiner Krieger bestimmt. Je nach Kriegersetup kommst du in unterschiedliche Brackets. Weitere Infos zu den Brackets findest du hier: [Arena Brackets](http://ni877848-1.web12.nitrado.hosting/index.php?contf=arena_de.php)
