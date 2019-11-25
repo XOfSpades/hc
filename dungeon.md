@@ -42,6 +42,33 @@ Mindestens 3 Nahkämpfer, mindestens 2 Beleber. Empfohlen 2 weitere Heiler. Tele
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus_kampf.jpg)
 
+## Pfördner
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner.jpg)
+
+Der Pfördner ist resistent gegen Magischen Schaden. Schlimmernoch: Magischer Schaden regeneriert ihn. Daher sollte man keine Magier setzen
+#### Team
+Theoretisch reicht ein einzelner Tank mit sehr starker Selbstheilung. Alle Tanks mit guter Selbstheilung sind hilfreich
+
+#### Setup auf dem Bild
+2 Tanks, 1 Assassin, 1 Bogenschütze (wenn man den opfern kann)
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner_kampf.jpg)
+
+## Unbezwingbarer (Ratte)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer.jpg)
+
+Kämpfer treten einzeln gegen ihn an. Er macht extrem hohen Schaden. Optimal wären 6 Tanks/Assassinen.
+
+#### Team
+Tanks und Bogis. Kämpfer die gut sind im Ausweichen
+
+#### Setup auf dem Bild
+2 Tanks, 2 Assassinen, 1 Bogi, 1 Engelsstabmagier (als Opfer)
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_kampf.jpg)
+
 ## Winzling
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling.jpg)
 
