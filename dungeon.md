@@ -69,6 +69,21 @@ Tanks und Bogis. Kämpfer die gut sind im Ausweichen
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_kampf.jpg)
 
+## Vampirfürst
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst.jpg)
+
+Da der Vampirfürst fliegt, können Nahkämpfer ihn nicht angreifen.
+
+#### Team
+Magier (2-3 Beleber), einige Heiler und Bogis
+
+#### Setup auf dem Bild
+3 Beleber, 2 Heiler, 2 DMG-Healer, 1 Bogi
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_kampf.jpg)
+
+
 ## Winzling
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling.jpg)
 
