@@ -11,10 +11,7 @@ Er tritt wahllos auf die Truppen ein.
 Nur Heiler und Beleber.
 
 #### Setup auf dem Bild
-##### Links
-3 Beleber, 1 Heiler
-##### Rechts
-1 Beleber, 2 DMG-Healer, 1 Heiler
+4 Beleber, 2 Heiler, 2 DMG-Healer
 
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling_kampf.jpg)
