@@ -14,6 +14,20 @@ Mindestens 3 Nahkämpfer, mindestens 1-2 Beleber und 2 Heiler.
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/goblinkoenig_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/goblinkoenig_kampf.jpg)
 
+## Herrin (Spinne)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin.jpg)
+
+Ruft immer wieder eine Gruppe von Lakaien. Gegen die sollten mindestens zwei Tanks stehen. Flächenschaden ist hilfreich, wenn vorhanden.
+
+#### Team
+Mindestens 2 Nahkämpfer, mindestens 1 Beleber und 2 Heiler. Teleporter hilfreich.
+
+#### Setup auf dem Bild
+2 Tanks, 1 Assassin, 1 Bogenschütze, 1 Beleber, 2 Heiler, 1 DMG-Healer
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin_kampf.jpg)
+
 ## Höchster Magier
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier.jpg)
 
