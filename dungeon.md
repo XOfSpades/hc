@@ -1,7 +1,7 @@
 # Bosse
 
 ## Goblinkönig
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/goblinkoenig.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
 
 Die gefährlichste Waffe des Goblinkönigs ist sein Kettenblitz. Um diese Wirkung von den Magiern ferzuhalten sind mindestens 3 Nahkämpfer hilfreich.
 
@@ -11,11 +11,11 @@ Mindestens 3 Nahkämpfer, mindestens 1-2 Beleber und 2 Heiler.
 #### Setup auf dem Bild
 2 Tanks, 1 Assassin, 1 Bogenschütze, 1 Beleber, 2 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/goblinkoenig_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/goblinkoenig_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig_kampf.jpg)
 
 ## Herrin (Spinne)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/herrin.jpg)
 
 Ruft immer wieder eine Gruppe von Lakaien. Gegen die sollten mindestens zwei Tanks stehen. Flächenschaden ist hilfreich, wenn vorhanden.
 
@@ -25,11 +25,11 @@ Mindestens 2 Nahkämpfer, mindestens 1 Beleber und 2 Heiler. Teleporter hilfreic
 #### Setup auf dem Bild
 2 Tanks, 1 Assassin, 1 Bogenschütze, 1 Beleber, 2 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/herrin_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/herrin_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/herrin_kampf.jpg)
 
 ## Höchster Magier
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier.jpg)
 
 Der höchste Magier teleportiert sich immer wieder und friert Teile deines Trupps ein.
 
@@ -39,11 +39,11 @@ Alle drei Bereiche (Nahkampf, Magier, Bogis) besetzen. Die Chancen sind dann gan
 #### Setup auf dem Bild
 1 Assassin, 1 Bogenschütze, 3 Beleber, 3 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier_kampf.jpg)
 
 ## Mumie (Kaiserkammer)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie.png)
 
 Die Mumie ist ein Nahkämpfer, der ausreichend geblockt werden sollte. Zwei Tanks ist daher minimum. Zweimal verschwindet die Mumie jedoch und lässt Lakaien angreifen. Diese sollte man schnell genug erledigen. Die Magier dürfen nicht fallen. Bogenschützen sind hier von Vorteil.
 
@@ -53,11 +53,11 @@ Mindestens 2 Nahkämpfer, Ausreichend Schaden gegen die Lakaien. Heilung der Tan
 #### Setup auf dem Bild
 2 Tanks, 2 Assassin, 2 Beleber, 1 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_setup.png)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_kampf.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_setup.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_kampf.png)
 
 ## Monströsität
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet.png)
 
 Die Monströsitaet geht man am besten mit Magiern an. Der eine oder andere Nahkämpfer schadet allerdings nicht.
 
@@ -67,11 +67,11 @@ Primär Magier (DMG-Healer, oder sonstiger Schaden, Heler Beleber). Tanks mit vi
 #### Setup auf dem Bild
 1 Tank, 1 Assassin, 2 Beleber, 1 Einhornkugel Magier, 2 DMG-Healer, 1 Bogenschütze
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_setup.png)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_kampf.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_setup.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_kampf.png)
 
 ## Occulus
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/occulus.jpg)
 
 Occulus greift immer wieder mit Lakaien an und dreht einzelne Kämpfer kurzzeitig um. Es ist hilfreich mindestens 3 Nahkämpfer zu haben. Andernfalls kann es vorkommen, dass eure Krieger zurücklaufen und eure Magier angreifen.
 
@@ -81,11 +81,11 @@ Mindestens 3 Nahkämpfer, mindestens 2 Beleber. Empfohlen 2 weitere Heiler. Tele
 #### Setup auf dem Bild
 2 Tanks, 1 Assassin, 1 Bogenschütze, 2 Beleber, 1 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/occulus_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/occulus_kampf.jpg)
 
 ## Pfördner
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner.jpg)
 
 Der Pfördner ist resistent gegen Magischen Schaden. Schlimmernoch: Magischer Schaden regeneriert ihn. Daher sollte man keine Magier setzen
 #### Team
@@ -94,11 +94,11 @@ Theoretisch reicht ein einzelner Tank mit sehr starker Selbstheilung. Alle Tanks
 #### Setup auf dem Bild
 2 Tanks, 1 Assassin, 1 Bogenschütze (wenn man den opfern kann)
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/pfoerdner_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner_kampf.jpg)
 
 ## Unbezwingbarer (Ratte)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/unbezwingbarer.jpg)
 
 Kämpfer treten einzeln gegen ihn an. Er macht extrem hohen Schaden. Optimal wären 6 Tanks/Assassinen.
 
@@ -108,11 +108,11 @@ Tanks und Bogis. Kämpfer die gut sind im Ausweichen
 #### Setup auf dem Bild
 2 Tanks, 2 Assassinen, 1 Bogi, 1 Engelsstabmagier (als Opfer)
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/unbezwingbarer_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/unbezwingbarer_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/unbezwingbarer_kampf.jpg)
 
 ## Vampirfürst
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/vampierfuerst.jpg)
 
 Da der Vampirfürst fliegt, können Nahkämpfer ihn nicht angreifen.
 
@@ -122,11 +122,11 @@ Magier (2-3 Beleber), einige Heiler und Bogis
 #### Setup auf dem Bild
 3 Beleber, 2 Heiler, 2 DMG-Healer, 1 Bogi
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/vampierfuerst_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/vampierfuerst_kampf.jpg)
 
 ## Winzling
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/winzling.jpg)
 
 Hier geht es nur darum, 3x30 Sekunden zu überleben, töten kann man ihn nicht.
 Er tritt wahllos auf die Truppen ein.
@@ -137,5 +137,5 @@ Nur Heiler und Beleber.
 #### Setup auf dem Bild
 4 Beleber, 2 Heiler, 2 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/winzling_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/winzling_kampf.jpg)
