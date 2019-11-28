@@ -1,13 +1,13 @@
 # Bosse
 
 - [Goblinkönig](#Goblinkönig)
-- [Herrin (Spinne)](#Herrin-(Spinne))
+- [Herrin (Spinne)](#Herrin-Spinne)
 - [Höchster Magier](#Höchster-Magier)
-- [Mumie (Kaiserkammer)](#Mumie-(Kaiserkammer))
+- [Mumie (Kaiserkammer)](#Mumie)
 - [Monströsität](#Monströsität)
 - [Occulus](#Occulus)
 - [Pfördner](#Pfördner)
-- [Unbezwingbarer (Ratte)](#Unbezwingbarer-(Ratte))
+- [Unbezwingbarer (Ratte)](#Unbezwingbare-Ratte)
 - [Vampirfürst](#Vampirfürst)
 - [Winzling](#Winzling)
 
@@ -25,7 +25,7 @@ Mindestens 3 Nahkämpfer, mindestens 1-2 Beleber und 2 Heiler.
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig_kampf.jpg)
 
-## Herrin (Spinne)
+## Herrin Spinne
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/herrin.jpg)
 
 Ruft immer wieder eine Gruppe von Lakaien. Gegen die sollten mindestens zwei Tanks stehen. Flächenschaden ist hilfreich, wenn vorhanden.
@@ -53,7 +53,7 @@ Alle drei Bereiche (Nahkampf, Magier, Bogis) besetzen. Die Chancen sind dann gan
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier_kampf.jpg)
 
-## Mumie (Kaiserkammer)
+## Mumie
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie.jpg)
 
 Die Mumie ist ein Nahkämpfer, der ausreichend geblockt werden sollte. Zwei Tanks ist daher minimum. Zweimal verschwindet die Mumie jedoch und lässt Lakaien angreifen. Diese sollte man schnell genug erledigen. Die Magier dürfen nicht fallen. Bogenschützen sind hier von Vorteil.
@@ -108,7 +108,7 @@ Theoretisch reicht ein einzelner Tank mit sehr starker Selbstheilung. Alle Tanks
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner_kampf.jpg)
 
-## Unbezwingbarer (Ratte)
+## Unbezwingbare Ratte
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/unbezwingbarer.jpg)
 
 Kämpfer treten einzeln gegen ihn an. Er macht extrem hohen Schaden. Optimal wären 6 Tanks/Assassinen.
