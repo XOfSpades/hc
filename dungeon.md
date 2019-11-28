@@ -1,6 +1,6 @@
 # Bosse
 
-[Vampierfürst](#Vampirfürst)
+[Vampierfürst](#test)
 
 ## Goblinkönig
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
@@ -126,7 +126,7 @@ Magier (2-3 Beleber), einige Heiler und Bogis
 
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/vampierfuerst_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/vampierfuerst_kampf.jpg)
-
+# test
 ## Winzling
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/winzling.jpg)
 
