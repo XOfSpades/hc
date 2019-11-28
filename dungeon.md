@@ -43,7 +43,7 @@ Alle drei Bereiche (Nahkampf, Magier, Bogis) besetzen. Die Chancen sind dann gan
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/hoechster_magier_kampf.jpg)
 
 ## Mumie (Kaiserkammer)
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie.jpg)
 
 Die Mumie ist ein Nahkämpfer, der ausreichend geblockt werden sollte. Zwei Tanks ist daher minimum. Zweimal verschwindet die Mumie jedoch und lässt Lakaien angreifen. Diese sollte man schnell genug erledigen. Die Magier dürfen nicht fallen. Bogenschützen sind hier von Vorteil.
 
@@ -53,8 +53,8 @@ Mindestens 2 Nahkämpfer, Ausreichend Schaden gegen die Lakaien. Heilung der Tan
 #### Setup auf dem Bild
 2 Tanks, 2 Assassin, 2 Beleber, 1 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_setup.png)
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_kampf.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_kampf.jpg)
 
 ## Monströsität
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet.jpg)
