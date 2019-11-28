@@ -42,6 +42,34 @@ Alle drei Bereiche (Nahkampf, Magier, Bogis) besetzen. Die Chancen sind dann gan
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier_kampf.jpg)
 
+## Mumie (Kaiserkammer)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie.jpg)
+
+Die Mumie ist ein Nahkämpfer, der ausreichend geblockt werden sollte. Zwei Tanks ist daher minimum. Zweimal verschwindet die Mumie jedoch und lässt Lakaien angreifen. Diese sollte man schnell genug erledigen. Die Magier dürfen nicht fallen. Bogenschützen sind hier von Vorteil.
+
+#### Team
+Mindestens 2 Nahkämpfer, Ausreichend Schaden gegen die Lakaien. Heilung der Tanks wichtig. Bogenschützen von Vorteil
+
+#### Setup auf dem Bild
+2 Tanks, 2 Assassin, 2 Beleber, 1 Heiler, 1 DMG-Healer
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_kampf.jpg)
+
+## Monströsität
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet.jpg)
+
+Die Monströsitaet geht man am besten mit Magiern an. Der eine oder andere Nahkämpfer schadet allerdings nicht.
+
+#### Team
+Primär Magier (DMG-Healer, oder sonstiger Schaden, Heler Beleber). Tanks mit viel Schaden (Assassin) schadet nicht.
+
+#### Setup auf dem Bild
+1 Tank, 1 Assassin, 2 Beleber, 1 Einhornkugel Magier, 2 DMG-Healer, 1 Bogenschütze
+
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_kampf.jpg)
+
 ## Occulus
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus.jpg)
 
@@ -96,7 +124,6 @@ Magier (2-3 Beleber), einige Heiler und Bogis
 
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/vampierfuerst_kampf.jpg)
-
 
 ## Winzling
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/winzling.jpg)
