@@ -1,6 +1,6 @@
 # Bosse
 
-[Vampierfürst](##Vampirfürst)
+[Vampierfürst](#Vampirfürst)
 
 ## Goblinkönig
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
