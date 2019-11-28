@@ -57,7 +57,7 @@ Mindestens 2 Nahkämpfer, Ausreichend Schaden gegen die Lakaien. Heilung der Tan
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/mumie_kampf.png)
 
 ## Monströsität
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet.jpg)
 
 Die Monströsitaet geht man am besten mit Magiern an. Der eine oder andere Nahkämpfer schadet allerdings nicht.
 
@@ -67,8 +67,8 @@ Primär Magier (DMG-Healer, oder sonstiger Schaden, Heler Beleber). Tanks mit vi
 #### Setup auf dem Bild
 1 Tank, 1 Assassin, 2 Beleber, 1 Einhornkugel Magier, 2 DMG-Healer, 1 Bogenschütze
 
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_setup.png)
-![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_kampf.png)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/monstroesitaet_kampf.jpg)
 
 ## Occulus
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/occulus.jpg)
