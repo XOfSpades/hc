@@ -43,7 +43,7 @@ Alle drei Bereiche (Nahkampf, Magier, Bogis) besetzen. Die Chancen sind dann gan
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/hoechster_magier_kampf.jpg)
 
 ## Mumie (Kaiserkammer)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie.png)
 
 Die Mumie ist ein Nahkämpfer, der ausreichend geblockt werden sollte. Zwei Tanks ist daher minimum. Zweimal verschwindet die Mumie jedoch und lässt Lakaien angreifen. Diese sollte man schnell genug erledigen. Die Magier dürfen nicht fallen. Bogenschützen sind hier von Vorteil.
 
@@ -53,11 +53,11 @@ Mindestens 2 Nahkämpfer, Ausreichend Schaden gegen die Lakaien. Heilung der Tan
 #### Setup auf dem Bild
 2 Tanks, 2 Assassin, 2 Beleber, 1 Heiler, 1 DMG-Healer
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_setup.png)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/mumie_kampf.png)
 
 ## Monströsität
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet.png)
 
 Die Monströsitaet geht man am besten mit Magiern an. Der eine oder andere Nahkämpfer schadet allerdings nicht.
 
@@ -67,8 +67,8 @@ Primär Magier (DMG-Healer, oder sonstiger Schaden, Heler Beleber). Tanks mit vi
 #### Setup auf dem Bild
 1 Tank, 1 Assassin, 2 Beleber, 1 Einhornkugel Magier, 2 DMG-Healer, 1 Bogenschütze
 
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_setup.jpg)
-![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_kampf.jpg)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_setup.png)
+![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/monstroesitaet_kampf.png)
 
 ## Occulus
 ![](https://github.com/XOfSpades/hc/blob/setup_dungeon_guide/images/dungeon/occulus.jpg)
