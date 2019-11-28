@@ -1,6 +1,15 @@
 # Bosse
 
-[Pfördner](#Pfördner)
+- [Goblinkönig](#Goblinkönig)
+- [Herrin (Spinne)](#Herrin-(Spinne))
+- [Höchster Magier](#Höchster-Magier)
+- [Mumie (Kaiserkammer)](#Mumie-(Kaiserkammer))
+- [Monströsität](#Monströsität)
+- [Occulus](#Occulus)
+- [Pfördner](#Pfördner)
+- [Unbezwingbarer (Ratte)](#Unbezwingbarer-(Ratte))
+- [Vampirfürst](#Vampirfürst)
+- [Winzling](#Winzling)
 
 ## Goblinkönig
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
