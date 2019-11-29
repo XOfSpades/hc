@@ -1,5 +1,6 @@
 # Bosse
 
+- [Bestie](#Bestie)
 - [Beschwörer](#Beschwörer)
 - [Goblinkönig](#Goblinkönig)
 - [Herrin (Spinne)](#Herrin-Spinne)
@@ -11,6 +12,20 @@
 - [Unbezwingbarer (Ratte)](#Unbezwingbare-Ratte)
 - [Vampirfürst](#Vampirfürst)
 - [Winzling](#Winzling)
+
+## Bestie
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/bestie.jpg)
+
+Der Bestie greift in den drei Kampfphasen immer eine bestimmte Kämpfergruppe an. In der ersten Stufe greift er die Bogenschützen an, in der zweiten die Magier und in der dritten die Nahkämpfer. Verliert die Bestie in einem Abschnitt ein drittel seines Lebens, wechselt er in den nächsten
+
+#### Team
+Es ist vorteilfaft sowohl Nahkämpfer (Assassin) als auch Bogenschützen zu haben, die viel Schaden machen, um ihn dazu zu bringen schnell die Ebenen zu wechseln. Mögliche Setups: 2 Bogis, 2 Heiler, 2 Beleber 2 Tanks/Assassinen oder 2 Heiler, 2 Beleber, 4 Tanks/Assassinen. Im letzteren Fall ist Ankh wichtig
+
+#### Setup auf dem Bild
+2 Tanks, 2 Assassin, 2 Beleber, 2 DMG-Healer (Bild wird nachgereicht)
+
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/bestie_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/bestie_kampf.jpg)
 
 ## Beschwörer
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer.jpg)
