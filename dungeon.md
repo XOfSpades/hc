@@ -2,6 +2,7 @@
 
 - [Bestie](#Bestie)
 - [Beschwörer](#Beschwörer)
+- [Drache Rauch](#Drache-Rauch)
 - [Goblinkönig](#Goblinkönig)
 - [Herrin (Spinne)](#Herrin-Spinne)
 - [Höchster Magier](#Höchster-Magier)
@@ -40,6 +41,20 @@ Der Beschwörer zaubert mit zunehmender Zeir immer schneller und gefährlichere 
 
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer_setup.jpg)
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer_kampf.jpg)
+
+## Drache Rauch
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/drache.jpg)
+
+Die gefährlichste Waffe des Drachen sind die Felsen, die er immer wieder von der Decke fallen lässt. Diese töten deine Einheiten bei Treffern sofort. Die Felsen kommen dabei von hinten nach vorne.
+
+#### Team
+Möglichst viele starke Tanks/Assassinen. Einhornkugel oder vergleichbares hilfreich. Wenn Bogis, dann auch gute Beleber
+
+#### Setup auf dem Bild
+2 Tanks, 1 Assassin, 2 Beleber, 1 DMG-Healer, 2 Bogenschützen
+
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/drache_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/drache_kampf.jpg)
 
 ## Goblinkönig
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
