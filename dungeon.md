@@ -1,5 +1,6 @@
 # Bosse
 
+- [Baum](#Baum)
 - [Bestie](#Bestie)
 - [Beschwörer](#Beschwörer)
 - [Drache Rauch](#Drache-Rauch)
@@ -13,6 +14,19 @@
 - [Unbezwingbarer (Ratte)](#Unbezwingbare-Ratte)
 - [Vampirfürst](#Vampirfürst)
 - [Winzling](#Winzling)
+
+## Baum
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/baum.jpg)
+
+Jeder tritt des Baumes tötet eine Einheit sofort. Die Wurzeln halten alle Nahkämpfer davon ab anzugreifen.
+#### Team
+Keine Nahkämpfer setzen. Die sind komplett wirkungslos. Beleber sind wichtig. Davon sollten mindestens 3 stehen (mit Zauberweber). Der rest beliebige Magier und Bogenschützen
+
+#### Setup auf dem Bild
+1 Heiler, 4 Beleber, 1 DMG-Healer, 1 Bogenschütze, 1 Betäubermagier
+
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/baum_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/baum_kampf.jpg)
 
 ## Bestie
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/bestie.jpg)
