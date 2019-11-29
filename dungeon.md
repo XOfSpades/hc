@@ -1,5 +1,6 @@
 # Bosse
 
+- [Beschwörer](#Beschwörer)
 - [Goblinkönig](#Goblinkönig)
 - [Herrin (Spinne)](#Herrin-Spinne)
 - [Höchster Magier](#Höchster-Magier)
@@ -10,6 +11,20 @@
 - [Unbezwingbarer (Ratte)](#Unbezwingbare-Ratte)
 - [Vampirfürst](#Vampirfürst)
 - [Winzling](#Winzling)
+
+## Beschwörer
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer.jpg)
+
+Der Beschwörer zaubert mit zunehmender Zeir immer schneller und gefährlichere Zauber. Daher sollte man es möglichst kurz mit ihm machen. Heilung sowie Beleber sind wichtig, aber eben auch Schaden.
+
+#### Team
+2 Heiler, 2 Beleber... Sonst alles was viel Schaden macht.
+
+#### Setup auf dem Bild
+2 Tanks, 2 Assassin, 2 Beleber, 2 DMG-Healer
+
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer_setup.jpg)
+![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/beschwoerer_kampf.jpg)
 
 ## Goblinkönig
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/goblinkoenig.jpg)
