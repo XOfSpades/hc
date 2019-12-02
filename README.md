@@ -5,4 +5,4 @@ Tipps zum [Clankrieg](https://github.com/XOfSpades/hc/blob/master/clankrieg.md)
 Tipps zur [Burgentwicklung](https://github.com/XOfSpades/hc/blob/master/burgentwicklung.md)
 
 # Dungeon
-Tipps zur [Dungeon](https://github.com/XOfSpades/hc/blob/master/dungeon.md)
+Tipps zum [Dungeon](https://github.com/XOfSpades/hc/blob/master/dungeon.md)
