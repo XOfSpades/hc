@@ -157,7 +157,7 @@ Mindestens 3 Nahkämpfer, mindestens 2 Beleber. Empfohlen 2 weitere Heiler. Tele
 ## Pfördner
 ![](https://github.com/XOfSpades/hc/blob/master/images/dungeon/pfoerdner.jpg)
 
-Der Pfördner ist resistent gegen Magischen Schaden. Schlimmernoch: Magischer Schaden regeneriert ihn. Daher sollte man keine Magier setzen
+Der Pfördner ist resistent gegen Magischen Schaden. Schlimmernoch: Magischer Schaden regeneriert ihn. Daher sollte man keine Magier setzen. Hoher Wert in Vampirismus ist hilfreich.
 #### Team
 Theoretisch reicht ein einzelner Tank mit sehr starker Selbstheilung. Alle Tanks mit guter Selbstheilung sind hilfreich
 
