@@ -6,3 +6,6 @@ Tipps zur [Burgentwicklung](https://github.com/XOfSpades/hc/blob/master/burgentw
 
 # Dungeon
 Tipps zur [Dungeon](https://github.com/XOfSpades/hc/blob/master/dungeon.md)
+
+# Ringrunen
+Übersicht zu den [Ringeffekten](https://github.com/XOfSpades/hc/blob/master/ring-effects.md)
